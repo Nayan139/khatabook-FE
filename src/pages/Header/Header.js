@@ -2,7 +2,7 @@ import React from "react";
 import { useSelector } from "react-redux";
 import { useNavigate } from "react-router";
 import { Box, Divider, Popover, Typography } from "@mui/material";
-import Logo from "../../assets/logo.png";
+import Logo from "../../assets/logo.jpg";
 import { FiSettings } from "react-icons/fi";
 import { GoThreeBars } from "react-icons/go";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";

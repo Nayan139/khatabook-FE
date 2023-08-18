@@ -3,7 +3,7 @@ import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import { Tab, Tabs } from "@mui/material";
 import Login from "./Login/Login";
-import Logo from "../../assets/logo.png";
+import Logo from "../../assets/logo.jpg";
 import Register from "./Register/Register";
 import "./AuthLayout.css";
 
